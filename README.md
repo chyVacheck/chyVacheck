@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS, CSS, HTML
 - 📫 How to reach me:
   - email: dmytro.shakh.work@gmail.com
-  - telegram: @Dimon_chic
+  - telegram: @dimon_chick_w
 
 
 

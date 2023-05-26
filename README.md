@@ -12,7 +12,7 @@ I intend to develop in the field of web development and open to new challenges a
 ___
 ### Ways to contact
 
-- +49 (175) 289 26-33 (Mobile)
+- +48 452 405 347 (Mobile)
 - dmytro.shakh.work@gmail.com (Email)
 - [GitHub](https://github.com/chyVacheck)
 - [LinkedIn](www.linkedin.com/in/dmytro-shakh)

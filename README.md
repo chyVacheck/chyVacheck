@@ -109,11 +109,11 @@ The server uses MongoDB to store user data and is made using the Express library
     - [Link to the repository front-end](https://github.com/chyVacheck/movies-explorer-frontend)
     - [Link to the repository back-end](https://github.com/chyVacheck/movies-explorer-api)
 
-- #### russian-travel
+- #### Travel
    - Description
-     > This project shows what places there are in Russia,
-some statistics about the journeys of Russians,
-about many beautiful places in Russia
+     > This project shows what places there are in Ukraine,
+some statistics about the journeys of Ukraine,
+about many beautiful places in Ukraine
 The project was written using HTML, CSS and BEM methodology  
    - Functional
      > Small animations using CSS, adaptive and fluid layout for resolutions of 320px and more
@@ -121,8 +121,8 @@ The project was written using HTML, CSS and BEM methodology
      -   HTML
      -   CSS
     - Links
-      - [Link to the repository](https://github.com/chyVacheck/russian-trave)
-      - [Ссылка на website](https://chyvacheck.github.io/russian-travel/)
+      - [Link to the repository](https://github.com/chyVacheck/travel)
+      - [Ссылка на website](https://chyvacheck.github.io/travel/)
 ___
 ### About me
   > I have been fascinated with programming since my school days. I have always been passionate about creating programs and applications that can solve real problems. When I realized that I wanted to devote my life to programming, the choice fell on web development. This is a unique area that provides limitless opportunities for the implementation of creative ideas. One of its main advantages is that the results of the work can be seen almost instantly. For me, web development is not just a job, but an opportunity to create something new and useful for people every day.

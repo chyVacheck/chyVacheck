@@ -16,11 +16,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m working as a Full Stack Developer, I'm using frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I solve problems on read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-dmytro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-shakh/)
 
 ---
@@ -32,18 +32,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJs"  alt="ViteJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chyVacheck&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chyVacheck&theme=dark&background=030303)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyVacheck&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyVacheck&layout=compact&theme=vision-friendly-dark)
 

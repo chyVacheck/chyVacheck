@@ -24,7 +24,7 @@
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-dmytro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-shakh/)
 
 ---
-[![codewars](https://www.codewars.com/users/chyVacheck/badges/small)](https://www.codewars.com/users/username/chyVacheck) 
+[![codewars](https://www.codewars.com/users/chyVacheck/badges/small)](https://www.codewars.com/users/chyVacheck) 
 ---
 
 ### 🛠 &nbsp;Languages and Tools :

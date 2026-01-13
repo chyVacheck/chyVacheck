@@ -68,15 +68,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- ⚡ **Sync Frame** – unified business management system  
-- 🔗 **HashStream** – blockchain-based project (non-crypto)  
-- 📊 **Spendi** – personal finance tracker  
-
----
-
 ### 📊 Stats & Challenges
 
 [![codewars](https://www.codewars.com/users/chyVacheck/badges/small)](https://www.codewars.com/users/chyVacheck)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyVacheck&layout=compact&theme=vision-friendly-dark)
